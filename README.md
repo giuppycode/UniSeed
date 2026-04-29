@@ -1,4 +1,4 @@
-# web-app-2026 / SeedRun
+# UniSeed
 
 ![Brandlogo](./assets/img/brand/uniseed-light.jpg)
 
